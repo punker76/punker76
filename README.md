@@ -6,3 +6,10 @@
 - :hammer_and_wrench: In my free time after Family time I'm mostly active on **_#OSS_**
 - 🗣️ How to reach me: [Twitter](https://twitter.com/punker76), [LinkedIn](https://www.linkedin.com/in/punker76/), [Website](https://jkarger.de)
 - :syringe: Since January 2015 I have [Diabetes mellitus type 1](https://en.wikipedia.org/wiki/Type_1_diabetes)
+
+<a href="https://github.com/punker76?tab=repositories&q=&type=source">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=punker76&show_icons=true&hide_title=true&theme=nightowl" />
+</a>
+<a href="https://github.com/punker76">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punker76&layout=compact&theme=nightowl" />
+</a>
